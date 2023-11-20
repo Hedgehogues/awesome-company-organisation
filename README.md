@@ -95,4 +95,7 @@ Overall, this repository seems to be a comprehensive resource for those interest
 
 ## https://vc.ru/books/792117-minusy-skrama-strannye-zakazchiki-i-pereezd-s-trello-proektnyy-daydzhest-27
 
+## https://cloud.google.com/apis/design
+
+## https://tellmeabout.tech/
 
